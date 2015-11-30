@@ -4,7 +4,7 @@
         <description><![CDATA[Team Page]]></description>
         <link>https://thegrid.ai/hot_shots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 20:50:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Nov 2015 20:51:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/hot_shots/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -17,13 +17,6 @@ run.  </p>]]></description>
             <link>https://thegrid.ai/hot_shots/f896203d-86ed-4362-8b4b-abdcacb63006/index.html</link>
             <guid isPermaLink="false">f896203d-86ed-4362-8b4b-abdcacb63006</guid>
             <pubDate>Mon, 30 Nov 2015 20:50:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>null</p>]]></description>
-            <link>https://thegrid.ai/hot_shots/c9a47d05-fa87-46ac-9f25-87a5db08c3b1/index.html</link>
-            <guid isPermaLink="false">c9a47d05-fa87-46ac-9f25-87a5db08c3b1</guid>
-            <pubDate>Mon, 30 Nov 2015 05:42:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
